@@ -1,0 +1,1 @@
+# qwer3570-Outline-of-Information-Technology-Concepts-Homework
