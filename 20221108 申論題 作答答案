@@ -1,11 +1,13 @@
 (1) OSI有七層?簡述其功能
-    - 第七層 應用層 Application Layer:  負責通訊協定和資料操作，提供使用者介面
-    - 第六層 展示層 Presentation Layer: 將資料準備給第七層使用
-    - 第五層 會議層 Session Layer: 負責處理開啟和關閉兩個裝置之間的通訊
+    - 第七層 應用層 Application Layer:  負責通訊協定和資料操作
+    - 第六層 展示層 Presentation Layer: 將資料處理供第七層使用
+    - 第五層 會議層 Session Layer: 負責處理開啟.關閉和管理兩個裝置之間的通訊
     - 第四層 傳輸層 Transport Layer: 負責處理裝置之間端對端通訊
     - 第三層 網路層 Newwork Layer: 處理兩個不同網路裝置之間的資料傳輸
     - 第二層 資料鏈結層 Datalink Layer: 處理兩個相同網路裝置之間的資料傳輸
     - 第一層 實體層 Physical Layer: 定義設備之間的位元資料傳輸
+    
+#可列成表格
     
 (2) 底下網路設備運作在哪一層? Hub, switch, router, L4-switch, proxy
     - Hub 集線器: 第一層 實體層 Physical Layer
@@ -29,8 +31,8 @@
 
 (4) 簡述底下應用層協定(英文全名與簡單功能說明):
     HTTP vs HTTPs
-        - 
-        - 
+        - HTTP: 超文本傳輸協定, 用於分布式.協作式和超媒體訊息系統
+        - HTTPS: 超級文字傳輸安全協定, 用於網路進行安全通訊
     DNS vs DNSsec
         - 
         - 
