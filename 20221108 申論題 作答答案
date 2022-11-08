@@ -8,11 +8,11 @@
     - 第一層 實體層 Physical Layer: 定義設備之間的位元資料傳輸
     
 (2) 底下網路設備運作在哪一層? Hub, switch, router, L4-switch, proxy
-    - Hub 集線器: Physical Layer
-    - switch 交換器: Datalink Layer
-    - Router 路由器: Newwork Layer
-    - L4-switch 第四層交換器: Transport Layer
-    - Proxy 代理伺服器: Application Layer
+    - Hub 集線器: 第一層 實體層 Physical Layer
+    - switch 交換器: 第二層 資料鏈結層 Datalink Layer
+    - Router 路由器: 第三層 網路層 Newwork Layer
+    - L4-switch 第四層交換器: 第四層 傳輸層 Transport Layer
+    - Proxy 代理伺服器: 第七層 應用層 Application Layer
     
 (3) TCP/IP有那些層?寫出與OSI七層模型的對應!
     - 第四層 應用層 Application Layer
@@ -26,3 +26,5 @@
     - 第一層 資料鏈結層 Datalink Layer
         <-> 第二層 資料鏈結層 Datalink Layer
         <-> 第一層 實體層 Physical Layer
+
+(4) 簡述底下應用層協定(英文全名與簡單功能說明):
