@@ -1,8 +1,8 @@
 (1) OSI有七層?簡述其功能
     - 第七層 應用層 Application Layer:  提供使用者操作介面
     - 第六層 展示層 Presentation Layer: 將資料處理供第七層使用
-    - 第五層 會議層 Session Layer: 負責處理開啟.關閉和管理兩個裝置之間的通訊
-    - 第四層 傳輸層 Transport Layer: 負責處理裝置之間端對端通訊
+    - 第五層 會議層 Session Layer: 負責開啟.關閉和管理兩個裝置之間的通訊
+    - 第四層 傳輸層 Transport Layer: 負責裝置之間端對端通訊
     - 第三層 網路層 Newwork Layer: 處理兩個不同網路裝置之間的資料傳輸
     - 第二層 資料鏈結層 Datalink Layer: 處理兩個相同網路裝置之間的資料傳輸
     - 第一層 實體層 Physical Layer: 定義設備之間的位元資料傳輸
