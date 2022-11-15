@@ -33,7 +33,7 @@
         - HTTPS: HyperText Transfer Protocol Secure, 超級文字傳輸安全協定, 用於網路進行安全通訊
     DNS vs DNSsec
         - DNS: Domain Name System, 網域名稱系統, 將域名和IP位址對應的分散式資料庫
-        - DNSsec: Domain Name System Security Extensions, 域名系統安全擴充, 
+        - DNSsec: Domain Name System Security Extensions, 域名系統安全擴充, 保護應用程式免受偽造或不當操縱的DNS數據所造成的影響
     telnet vs ssh
         - 
         - 
