@@ -29,8 +29,8 @@
 
 (4) 簡述底下應用層協定(英文全名與簡單功能說明):
     HTTP vs HTTPs
-        - HTTP: HyperText Transfer Protocol 超文本傳輸協定, 用於分布/協作式和超媒體訊息系統
-        - HTTPS: HyperText Transfer Protocol Secure 超級文字傳輸安全協定, 用於網路進行安全通訊
+        - HTTP: HyperText Transfer Protocol 超文本傳輸協定, 全球資訊網的數據通信基礎, 用於分布/協作式和超媒體訊息系統
+        - HTTPS: HyperText Transfer Protocol Secure 超級文字傳輸安全協定, 經由HTTP進行通訊, 用於網路進行安全通訊
     DNS vs DNSsec
         - DNS: Domain Name System 網域名稱系統, 將域名和IP位址對應的分散式資料庫
         - DNSsec: Domain Name System Security Extensions 域名系統安全擴充, 保護應用程式免受偽造或不當操縱的DNS數據所造成的影響
