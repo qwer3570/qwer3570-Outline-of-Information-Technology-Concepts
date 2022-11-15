@@ -33,13 +33,13 @@
         - HTTPS: HyperText Transfer Protocol Secure 超級文字傳輸安全協定, 經由HTTP進行通訊, 用於網路進行安全通訊
     DNS vs DNSsec
         - DNS: Domain Name System 網域名稱系統, 將域名和IP位址對應的分散式資料庫
-        - DNSsec: Domain Name System Security Extensions 域名系統安全擴充, 保護應用程式免受偽造或不當操縱的DNS數據所造成的影響
+        - DNSSEC: Domain Name System Security Extensions 域名系統安全擴充, 保護應用程式免受偽造或不當操縱的DNS數據所造成的影響
     telnet vs ssh
         - telent: 一種Application protocol, 提供雙向、以文字字串為主的命令列介面互動功能
-        - ssh: Secure Shell Protocol 安全外殼協定, 一種加密的網路傳輸協定, 可在不安全的網路中提供安全的傳輸環境
+        - SSH: Secure Shell Protocol 安全外殼協定, 一種加密的網路傳輸協定, 可在不安全的網路中提供安全的傳輸環境
     ftp vs sftp
-        - ftp: File Transfer Protocol 檔案傳輸協定, 用於客戶端和伺服器之間傳輸檔案的傳輸協定
-        - sftp: SSH File Transfer Protocol 安全檔案傳輸協定, 用於客戶端和伺服器之間傳輸檔案的傳輸協定, 透過SSH 2.0的擴充提供安全的檔案傳輸
+        - FTP: File Transfer Protocol 檔案傳輸協定, 用於客戶端和伺服器之間傳輸檔案的傳輸協定
+        - SFTP: SSH File Transfer Protocol 安全檔案傳輸協定, 用於客戶端和伺服器之間傳輸檔案的傳輸協定, 透過SSH 2.0的擴充提供安全的檔案傳輸
     smtp, pop3
         - smtp: 
         - pop3: 
