@@ -48,9 +48,9 @@
 
 (5) 簡述底下傳輸層協定(英文全名與簡單功能說明):
     TCP vs UDP
-        - TCP: Transmission Control Protocol 傳輸控制協定, 一種連接導向的、可靠的、基於位元組流的Transport Layer Communication Protocol
-        - UDP:
+        - TCP: Transmission Control Protocol 傳輸控制協定, 一種連接導向的、可靠的、基於位元組流的Transport Layer Communications Protocol
+        - UDP: User Datagram Protocol 使用者資料包協定, 一種簡單的面向資料包的Communications Protocol, 為一種不可靠的資料包協定
         
 (6) 簡述底下網路層協定(英文全名與簡單功能說明):
-    IP: 
-    ICMP: 
+    IP: Internet Protocol 網際網路協定, 屬於Newwork Layer協定, 用於根據源主機和目的主機的位址來傳送資料
+    ICMP: Internet Control Message Protocol 網際網路控制訊息協定, 用於IP中傳送控制訊息, 使管理者可以針對問題做出解決
