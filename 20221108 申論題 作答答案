@@ -42,7 +42,7 @@
         - SFTP: SSH File Transfer Protocol 安全檔案傳輸協定, 用於客戶端和伺服器之間傳輸檔案的傳輸協定, 透過SSH 2.0的擴充提供安全的檔案傳輸
     smtp, pop3
         - SMTP: Simple Mail Transfer Protocol 簡單郵遞傳送協定, 一種基於文字的協定, 用在傳送和接收電子郵件的資訊(通常做為傳送, 而非接收)
-        - POP3: Post Office Protocol 郵局協定, 為POP的最新版本, 用於支援使用客戶端遠端管理在伺服器上的電子郵件
+        - POP3: Post Office Protocol 郵局協定, 3為POP的最新版本, 用於支援使用客戶端遠端管理在伺服器上的電子郵件
     SNMP
         - SNMP: Simple Network Management Protocol 簡單網路管理協定, 支援網路管理系統, 用以監測連接到網路上的裝置是否有任何引起管理上關注的情況
 
